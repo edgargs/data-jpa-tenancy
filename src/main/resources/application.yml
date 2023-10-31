@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class: com.mysql.cj.jdbc.Driver
+    username: root
+    password: cibertec
+    url: jdbc:mysql://localhost:3306/2018
